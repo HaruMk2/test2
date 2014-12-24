@@ -11,13 +11,13 @@
 
 <p>
 <?php
-$num1 = 3200;
+$num1 = 320;
 $num2 = $num1;
 
 print '$num1 ='.$num1.'<br />';
 print '$num2 ='.$num2.'<br />';
 
-$num1 = 180;
+$num1 = 18;
 
 print '$num1 ='.$num1.'<br />';
 print '$num2 ='.$num2;
